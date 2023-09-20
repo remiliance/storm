@@ -1,0 +1,4 @@
+worker-id: 9920f0ca-33a2-4228-aeae-b69b172bb9f5
+logs.users: []
+logs.groups: []
+topology.submitter.user: remi
